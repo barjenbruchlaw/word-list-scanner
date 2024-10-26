@@ -4,10 +4,10 @@ The function accepts a list of strings and a string of one or more words. The te
 
 The function returns a dataclass:
 
-in_list: boolean
-test_string_len: integer
-match_start: integer
-match_end: integer
+* in_list: boolean
+* test_string_len: integer
+* match_start: integer
+* match_end: integer
 
 I use this to search an email body for a test phrase. This allows me to categorize the email and find certain template values.
 
