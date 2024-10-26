@@ -10,3 +10,6 @@ The function returns a dataclass:
     match_end: integer
 
 I use this to search an email body for a test phrase. This allows me to categorize the email and find certain template values.
+
+This is a single file application and uses only vanilla Python. No package dependencies at all.
+
