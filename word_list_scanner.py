@@ -11,7 +11,7 @@ def scan_word_list(word_list: List[str], test_string: str) -> object:
         test_string_len: int
         match_start: int
         match_end: int
-
+        
     test_string_list = re.split(r"\s+", test_string)
     test_string_len = len(test_string_list)
     test_string_first_word = test_string_list[0]

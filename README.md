@@ -5,7 +5,7 @@ The function accepts a list of strings and a string of one or more words. The te
 The function returns a dataclass:
 
 * in_list: boolean
-* test_string_len: integer
+* test_string_word_count: integer
 * match_start: integer
 * match_end: integer
 
