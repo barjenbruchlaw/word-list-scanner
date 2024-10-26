@@ -13,3 +13,4 @@ I use this to search an email body for a test phrase. This allows me to categori
 
 This is a single file application and uses only vanilla Python. No package dependencies at all.
 
+Type hints provided.
